@@ -1,6 +1,3 @@
-//사용자가 입력한 값에 따라 크기가 다른 구구단을 계산해 출력한다.
-//사용자가 8을 입력하면 8*8단, 19를 입력하면 19*19(2*1 ~ 19*19)를 계산해 출력한다.
-
 import java.util.Scanner;
 public class homwork {
 	public static void main(String[] args) {
